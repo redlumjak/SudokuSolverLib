@@ -36,10 +36,15 @@ ScaffoldingReadMe.txt
 # NuGet Symbol Packages
 *.snupkg
 
+# node
+node_modules/
+
 # Others
 ~$*
 *~
 CodeCoverage/
+
+*.vsidx
 
 # MSBuild Binary and Structured Log
 *.binlog

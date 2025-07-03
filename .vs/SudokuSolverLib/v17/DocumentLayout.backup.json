@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF8F35E-91EE-4A38-8F65-B4E5366D10CD}|SudokuSolverVue\\sudokusolvervue.esproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolvervue\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF8F35E-91EE-4A38-8F65-B4E5366D10CD}|SudokuSolverVue\\sudokusolvervue.esproj|solutionrelative:sudokusolvervue\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF8F35E-91EE-4A38-8F65-B4E5366D10CD}|SudokuSolverVue\\sudokusolvervue.esproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolvervue\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DAF8F35E-91EE-4A38-8F65-B4E5366D10CD}|SudokuSolverVue\\sudokusolvervue.esproj|solutionrelative:sudokusolvervue\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kajte\\dev\\SudokuSolverLib\\sudokusolvervue\\node_modules\\postcss\\lib\\postcss.d.mts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sudokusolvervue\\node_modules\\postcss\\lib\\postcss.d.mts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF8F35E-91EE-4A38-8F65-B4E5366D10CD}|SudokuSolverVue\\sudokusolvervue.esproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolvervue\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DAF8F35E-91EE-4A38-8F65-B4E5366D10CD}|SudokuSolverVue\\sudokusolvervue.esproj|solutionrelative:sudokusolvervue\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverapi\\solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|solutionrelative:sudokusolverapi\\solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\strategysingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\strategysingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|solutionrelative:sudokusolverapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\strategyremovedups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\strategyremovedups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|solutionrelative:sudokusolverapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\pencilmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\pencilmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\strategyunique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\strategyunique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\strategyroworcolinarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\strategyroworcolinarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\strategypairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\strategypairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverapi\\models\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|solutionrelative:sudokusolverapi\\models\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverapi\\controllers\\turnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|solutionrelative:sudokusolverapi\\controllers\\turnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\rowenumeratortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\rowenumeratortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverapi\\models\\getstrategiesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|solutionrelative:sudokusolverapi\\models\\getstrategiesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|solutionrelative:sudokusolverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\runnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\runnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverapi\\models\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|solutionrelative:sudokusolverapi\\models\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverapi\\models\\turncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|solutionrelative:sudokusolverapi\\models\\turncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverapi\\models\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505A0045-1849-4B87-B675-DE475CBFAE2C}|SudokuSolverApi\\SudokuSolverApi.csproj|solutionrelative:sudokusolverapi\\models\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\boardenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\boardenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\areaenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\areaenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\strategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\strategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|c:\\users\\kajte\\dev\\sudokusolverlib\\sudokusolverlib\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E82F3D-AD30-4D2A-8633-6B47FB931789}|SudokuSolverLib\\SudokuSolverLib.csproj|solutionrelative:sudokusolverlib\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\sudokusolvervue\\src\\App.vue",
+              "RelativeDocumentMoniker": "sudokusolvervue\\src\\App.vue",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\sudokusolvervue\\src\\App.vue",
+              "RelativeToolTip": "sudokusolvervue\\src\\App.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-18T21:05:39.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "postcss.d.mts",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\sudokusolvervue\\node_modules\\postcss\\lib\\postcss.d.mts",
+              "RelativeDocumentMoniker": "sudokusolvervue\\node_modules\\postcss\\lib\\postcss.d.mts",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\sudokusolvervue\\node_modules\\postcss\\lib\\postcss.d.mts",
+              "RelativeToolTip": "sudokusolvervue\\node_modules\\postcss\\lib\\postcss.d.mts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-17T18:20:50.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\sudokusolvervue\\vite.config.ts",
+              "RelativeDocumentMoniker": "sudokusolvervue\\vite.config.ts",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\sudokusolvervue\\vite.config.ts",
+              "RelativeToolTip": "sudokusolvervue\\vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-17T18:19:23.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\sudokusolvervue\\src\\main.ts",
+              "RelativeDocumentMoniker": "sudokusolvervue\\src\\main.ts",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\sudokusolvervue\\src\\main.ts",
+              "RelativeToolTip": "sudokusolvervue\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-17T17:56:22.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Solver.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Solver.cs",
+              "RelativeDocumentMoniker": "SudokuSolverApi\\Solver.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Solver.cs",
+              "RelativeToolTip": "SudokuSolverApi\\Solver.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:44:07.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "SudokuSolverApi\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\Game.cs",
+              "RelativeToolTip": "SudokuSolverApi\\Models\\Game.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAywDIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:44:40.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StrategyRemoveDups.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\StrategyRemoveDups.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\StrategyRemoveDups.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\StrategyRemoveDups.cs",
+              "RelativeToolTip": "SudokuSolverLib\\StrategyRemoveDups.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:49:06.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StrategySingle.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\StrategySingle.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\StrategySingle.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\StrategySingle.cs",
+              "RelativeToolTip": "SudokuSolverLib\\StrategySingle.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvysAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:03:11.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StrategyUnique.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\StrategyUnique.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\StrategyUnique.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\StrategyUnique.cs",
+              "RelativeToolTip": "SudokuSolverLib\\StrategyUnique.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:13:31.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PencilMarks.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\PencilMarks.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\PencilMarks.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\PencilMarks.cs",
+              "RelativeToolTip": "SudokuSolverLib\\PencilMarks.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowHYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:06:42.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\Board.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\Board.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\Board.cs",
+              "RelativeToolTip": "SudokuSolverLib\\Board.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAswIcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:31:18.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\Cell.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\Cell.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\Cell.cs",
+              "RelativeToolTip": "SudokuSolverLib\\Cell.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:55:52.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "SudokuSolverApi\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "SudokuSolverApi\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:55:23.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Strategies.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\Strategies.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\Strategies.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\Strategies.cs",
+              "RelativeToolTip": "SudokuSolverLib\\Strategies.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:41:40.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StrategyRowOrColInArea.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\StrategyRowOrColInArea.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\StrategyRowOrColInArea.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\StrategyRowOrColInArea.cs",
+              "RelativeToolTip": "SudokuSolverLib\\StrategyRowOrColInArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:49:17.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StrategyPairs.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\StrategyPairs.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\StrategyPairs.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\StrategyPairs.cs",
+              "RelativeToolTip": "SudokuSolverLib\\StrategyPairs.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:42:04.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Turn.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\Turn.cs",
+              "RelativeDocumentMoniker": "SudokuSolverApi\\Models\\Turn.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\Turn.cs",
+              "RelativeToolTip": "SudokuSolverApi\\Models\\Turn.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:47:48.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TurnsController.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Controllers\\TurnsController.cs",
+              "RelativeDocumentMoniker": "SudokuSolverApi\\Controllers\\TurnsController.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Controllers\\TurnsController.cs",
+              "RelativeToolTip": "SudokuSolverApi\\Controllers\\TurnsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAewBkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:45:55.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RowEnumeratorTest.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\RowEnumeratorTest.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\RowEnumeratorTest.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\RowEnumeratorTest.cs",
+              "RelativeToolTip": "SudokuSolverLib\\RowEnumeratorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:55:05.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetStrategiesItem.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\GetStrategiesItem.cs",
+              "RelativeDocumentMoniker": "SudokuSolverApi\\Models\\GetStrategiesItem.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\GetStrategiesItem.cs",
+              "RelativeToolTip": "SudokuSolverApi\\Models\\GetStrategiesItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:39:21.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\Strategy.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\Strategy.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\Strategy.cs",
+              "RelativeToolTip": "SudokuSolverLib\\Strategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:17:53.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Program.cs",
+              "RelativeDocumentMoniker": "SudokuSolverApi\\Program.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Program.cs",
+              "RelativeToolTip": "SudokuSolverApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:37:09.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Runnable.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\Runnable.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\Runnable.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\Runnable.cs",
+              "RelativeToolTip": "SudokuSolverLib\\Runnable.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:05:38.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\StartGame.cs",
+              "RelativeDocumentMoniker": "SudokuSolverApi\\Models\\StartGame.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\StartGame.cs",
+              "RelativeToolTip": "SudokuSolverApi\\Models\\StartGame.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:50:48.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\GameContext.cs",
+              "RelativeDocumentMoniker": "SudokuSolverApi\\Models\\GameContext.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\GameContext.cs",
+              "RelativeToolTip": "SudokuSolverApi\\Models\\GameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:46:02.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BoardEnumerator.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\BoardEnumerator.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\BoardEnumerator.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\BoardEnumerator.cs",
+              "RelativeToolTip": "SudokuSolverLib\\BoardEnumerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:54:32.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TurnContext.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\TurnContext.cs",
+              "RelativeDocumentMoniker": "SudokuSolverApi\\Models\\TurnContext.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverApi\\Models\\TurnContext.cs",
+              "RelativeToolTip": "SudokuSolverApi\\Models\\TurnContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:10:29.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AreaEnumerator.cs",
+              "DocumentMoniker": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\AreaEnumerator.cs",
+              "RelativeDocumentMoniker": "SudokuSolverLib\\AreaEnumerator.cs",
+              "ToolTip": "C:\\Users\\kajte\\dev\\SudokuSolverLib\\SudokuSolverLib\\AreaEnumerator.cs",
+              "RelativeToolTip": "SudokuSolverLib\\AreaEnumerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:52:04.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
